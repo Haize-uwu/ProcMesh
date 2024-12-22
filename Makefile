@@ -14,7 +14,7 @@ LIB_PATHS = -L/usr/lib
 LDLIBS = -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
 
 # Source file and output executable
-SRC = main.cpp
+SRC = mymesh.cpp
 TARGET = mygame
 
 # Default target
